@@ -13,7 +13,7 @@ Using transfer learning on MobileNetV2, an accuracy of ~98% was reached for blin
 ## Demo Video
 Want to skip straight into the details? Check out [this video](https://www.youtube.com/watch?v=dVEBEZgn6to) demoing the machine learning algorithm.
 
-[![Demo Video](https://i.imgur.com/ZLRfkQ5.png)](https://www.youtube.com/watch?v=dVEBEZgn6to)
+[![Demo Video](https://i.imgur.com/ZLRfkQ5.png)](https://youtu.be/gVqHdGIRrTY)
 
 ## Copyright
 © 2021 Aritro Saha. All rights reserved.
