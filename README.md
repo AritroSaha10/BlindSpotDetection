@@ -15,7 +15,7 @@ Want to skip straight into the details? Check out [this video](https://youtu.be/
 
 [![Demo Video](https://i.imgur.com/ZLRfkQ5.png)](https://youtu.be/gVqHdGIRrTY)
 
-## Copyright
-© 2021 Aritro Saha. All rights reserved.
+## License
+This project is under the GNU General Public License, version 3. More info is available in [LICENSE](/LICENSE)
 
-Modification and redistribution of the source code is not allowed.
+
